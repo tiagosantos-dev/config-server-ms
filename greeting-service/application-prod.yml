@@ -9,5 +9,5 @@ management:
         - "*"
         
 greeting-service:
-  greeting:"hallo"
-  default-value:"Mundo"
+  greeting: "hallo"
+  default-value: "Mundo"
